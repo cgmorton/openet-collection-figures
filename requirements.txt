@@ -1,0 +1,6 @@
+earthengine-api
+ipyplot
+jupyter
+matplotlib
+numpy
+openet-core
